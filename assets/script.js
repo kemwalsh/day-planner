@@ -40,6 +40,6 @@ function renderTime() {
     myClock.innerText = "" + dayArray[day] + " " + daym + " " + monthArray[month] + " " + year + " | " + h + " : " + m + " " + s;
 
     setTimeout("renderTime()", 1000);
-
+    //End Time
 }
 renderTime();
