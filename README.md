@@ -6,4 +6,4 @@
 
 ***
 
-[KMW-Portfolio Website](https://kemwalsh.github.io/day-planner/)
+[Day Planner](https://kemwalsh.github.io/day-planner/)
