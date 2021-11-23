@@ -40,6 +40,8 @@ textarea {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+  text-align: right;
+  padding-top: 30px;
 }
 
 .past {
@@ -55,6 +57,10 @@ textarea {
 .future {
   background-color: #77dd77;
   color: white;
+}
+
+i {
+  margin-top: 30px;
 }
 
 .saveBtn {
