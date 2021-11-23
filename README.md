@@ -1,9 +1,9 @@
 # day-planner
 ***
-### This project was an activity on creating my own online web developer portfolio. Implementing the various things we have learned in this course to create an interactive and attractive portfoilo.
+### This project was an activity on creating a functioing day-planner. By using moment.js, JQuery, a dynamic day planner was created. Adding items to the schedule and saving them adds to localStorage and make it able to be seen again on refresh.
 
-![My portfolio includes a navigation bar, images, and several headers, sections and cards.](./assets/Images/PortfolioScreenshot.png)
+![This page contains the current date and underneath shows a interactive day planner.](./assets/Images/day-planner.png)
 
 ***
 
-[KMW-Portfolio Website](https://kemwalsh.github.io/KEM-PORTFOLIO/)
+[KMW-Portfolio Website](https://kemwalsh.github.io/day-planner/)
