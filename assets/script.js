@@ -1,5 +1,5 @@
 // Date and Time  TURN INTO JQUERY
-var myClock = document.getElementById("currentDay").textContent = moment().format('MMMM Do YYYY, h:mm:ss a');
+var myClock = document.getElementById("currentDay").textContent = moment().format('MMMM Do YYYY, h:mm a');
 // console.log(myClock)
 // myClock.textContent = moment().format('MMMM Do YYYY, h:mm:ss a');
 // setInterval(function () {
